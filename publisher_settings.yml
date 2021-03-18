@@ -1,0 +1,24 @@
+publisher:
+  name: Ministero della Documentazione Pubblica
+  description: |
+    L'Azienda Sanitaria Unica Regionale (A.S.U.R.), 
+    nata con la L.R. n. 13/2003, è costituita a
+    livello organizzativo e funzionale da n.5 Aree 
+    Vaste (istituite con Legge regionale 1 agosto 
+    2011 n.17) che ricomprendono le storiche ex 
+    n.13 Zone Territoriali.
+    Alla Direzione Generale (con sede ad Ancona) fa 
+    capo il Direttore Generale, coadiuvato da un
+    Direttore Sanitario, un Direttore Amministrativo 
+    e da un Responsabile dei Servizi di Integrazione
+    socio-sanitaria. Tali figure concorrono collegialmente 
+    al governo strategico dei servizi socio-sanitari
+    dell'Azienda.
+  github_organization_url: github.com/ASUR-Marche
+  short_name: ASUR
+  website: https://www.asur.marche.it
+  tags:
+    - documents
+    - public
+    - asur
+  logo: assets/images/asurMarcheLogo.jpg

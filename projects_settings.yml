@@ -1,0 +1,19 @@
+projects:
+  - name: Servizi Digitali Per il Cittadino Assistito
+    description: |
+      Documenti di progetto dei servizi digitali 
+      per il cittadino assistito.
+      I servizi verranno realizzati mediante 
+      app per smarphone e mediante applicazioni 
+      pubblicate sul portale organizzativo 
+      dell'ASUR Marche.
+    documents:
+      - sdpca-personas-docs
+      - sdpca-systemmap-docs
+      - sdpca-userjourney-docs
+    short_name: SDPCA
+    website: https://www.asur.marche.it
+    tags:
+      - digital
+      - service
+      - healthcare
